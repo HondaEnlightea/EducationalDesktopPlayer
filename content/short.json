@@ -1,0 +1,1707 @@
+{
+  "schemaVersion": 1,
+  "setId": "original-toeic-short-100",
+  "description": "オリジナル学習教材。TOEIC公式問題の転載ではありません。",
+  "items": [
+    {
+      "id": "short-001",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please submit the report by Friday.",
+          "japanese": "金曜日までに報告書を提出してください。",
+          "markers": [
+            {
+              "phrase": "by Friday",
+              "kind": "term",
+              "explanation": "byは期限を示し、ここでは金曜日までに、という意味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-002",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We are looking forward to meeting the new team.",
+          "japanese": "私たちは新しいチームに会うことを楽しみにしています。",
+          "markers": [
+            {
+              "phrase": "looking forward to meeting",
+              "kind": "term",
+              "explanation": "look forward toのtoは前置詞。その後には名詞や動名詞を置く。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-003",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The revised schedule is available on our website.",
+          "japanese": "改訂された日程は当社のウェブサイトで確認できます。",
+          "markers": [
+            {
+              "phrase": "available",
+              "kind": "term",
+              "explanation": "be動詞の後で主語の状態を説明する形容詞。availabilityは名詞、availablyへの置換は不可。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-004",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please review the proposal carefully before signing it.",
+          "japanese": "署名する前に提案書を注意深く確認してください。",
+          "markers": [
+            {
+              "phrase": "carefully",
+              "kind": "term",
+              "explanation": "reviewという動作を修飾する副詞。形容詞carefulは名詞を修飾する位置で使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-005",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The efficient use of space has reduced storage costs.",
+          "japanese": "スペースの効率的な利用で保管費用が減りました。",
+          "markers": [
+            {
+              "phrase": "efficient",
+              "kind": "term",
+              "explanation": "冠詞theと名詞useの間は形容詞。efficientは効率がよい、effectiveは効果がある。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-006",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We appreciate your cooperation during the renovation.",
+          "japanese": "改装中のご協力に感謝いたします。",
+          "markers": [
+            {
+              "phrase": "cooperation",
+              "kind": "term",
+              "explanation": "所有格yourの後の目的語には名詞を置く。cooperateは動詞、cooperativeは形容詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-007",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The newly appointed director will visit each branch.",
+          "japanese": "新たに任命された取締役は各支店を訪問します。",
+          "markers": [
+            {
+              "phrase": "newly appointed",
+              "kind": "term",
+              "explanation": "副詞newlyが過去分詞appointedを修飾し、全体がdirectorを説明する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-008",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Customer satisfaction remains our highest priority.",
+          "japanese": "顧客満足は引き続き私たちの最優先事項です。",
+          "markers": [
+            {
+              "phrase": "remains",
+              "kind": "term",
+              "explanation": "remainはこの文では補語を取る動詞。our highest priorityは主語の状態を説明する名詞句。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-009",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The technician made a surprisingly quick repair.",
+          "japanese": "技術者は驚くほど素早く修理しました。",
+          "markers": [
+            {
+              "phrase": "surprisingly quick",
+              "kind": "term",
+              "explanation": "副詞surprisinglyが形容詞quickを修飾し、quickがrepairを修飾する。修飾の向きを確認する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-010",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The equipment must be inspected before use.",
+          "japanese": "その機器は使用前に点検する必要があります。",
+          "markers": [
+            {
+              "phrase": "equipment",
+              "kind": "term",
+              "explanation": "不可算名詞なので通常equipmentsとはしない。数えるならpieces of equipmentを使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-011",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Ms. Ito offered some useful advice about the interview.",
+          "japanese": "伊藤さんは面接について役立つ助言をしてくれました。",
+          "markers": [
+            {
+              "phrase": "advice",
+              "kind": "term",
+              "explanation": "adviceは不可算。some adviceやa piece of adviceとする。adviseは動詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-012",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We received an invoice for the replacement parts.",
+          "japanese": "交換部品の請求書を受け取りました。",
+          "markers": [
+            {
+              "phrase": "an invoice",
+              "kind": "term",
+              "explanation": "母音の音で始まるinvoiceにはan。冠詞は綴りではなく発音で選ぶ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-013",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please send the completed forms to us by email.",
+          "japanese": "記入済みの用紙をメールで私たちに送ってください。",
+          "markers": [
+            {
+              "phrase": "to us",
+              "kind": "term",
+              "explanation": "前置詞toの後は目的格us。主格weや所有格ourを置かない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-014",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Employees should keep their identification cards with them.",
+          "japanese": "従業員は身分証を携帯してください。",
+          "markers": [
+            {
+              "phrase": "their",
+              "kind": "term",
+              "explanation": "名詞cardsを修飾する所有格。名詞を伴わず所有を表す形はtheirs。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-015",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The manager herself checked the final figures.",
+          "japanese": "部長本人が最終的な数値を確認しました。",
+          "markers": [
+            {
+              "phrase": "herself",
+              "kind": "term",
+              "explanation": "主語を強調する再帰代名詞。herselfを除いても文の基本構造は成立する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-016",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Some files are on the server; the others are in the archive.",
+          "japanese": "一部のファイルはサーバーにあり、残りは保管庫にあります。",
+          "markers": [
+            {
+              "phrase": "the others",
+              "kind": "term",
+              "explanation": "特定の集合の残り全部。othersは不特定の他のもの、anotherは単数の追加のもの。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-017",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Each of the applicants has relevant experience.",
+          "japanese": "応募者はそれぞれ関連する経験を持っています。",
+          "markers": [
+            {
+              "phrase": "Each of the applicants has",
+              "kind": "term",
+              "explanation": "主語の中心は単数のEach。直前の複数名詞applicantsに動詞を合わせない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-018",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The list of approved suppliers is attached.",
+          "japanese": "承認済みの仕入先一覧を添付しています。",
+          "markers": [
+            {
+              "phrase": "list of approved suppliers is",
+              "kind": "term",
+              "explanation": "主語の中心はlistなのでis。of以下はlistを修飾する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-019",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "A number of customers have requested an earlier delivery.",
+          "japanese": "多くの顧客が早めの配達を求めています。",
+          "markers": [
+            {
+              "phrase": "A number of customers have",
+              "kind": "term",
+              "explanation": "a number of＋複数名詞は「多くの」で複数扱い。the number ofなら「数」が主語で単数扱い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-020",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The number of reservations has increased this month.",
+          "japanese": "今月は予約件数が増えています。",
+          "markers": [
+            {
+              "phrase": "The number of reservations has",
+              "kind": "term",
+              "explanation": "主語は件数を表すnumber。複数のreservationsに引かれてhaveにしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-021",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Neither of the two estimates includes installation.",
+          "japanese": "二つの見積もりのどちらにも設置費用は含まれていません。",
+          "markers": [
+            {
+              "phrase": "Neither of the two estimates includes",
+              "kind": "term",
+              "explanation": "neitherは「二つのうちどちらも〜ない」。ここでは単数のincludesと結ぶ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-022",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "There are fewer complaints and less waste than last year.",
+          "japanese": "昨年より苦情が少なく、廃棄物も減っています。",
+          "markers": [
+            {
+              "phrase": "fewer complaints and less waste",
+              "kind": "term",
+              "explanation": "可算のcomplaintsにはfewer、不可算のwasteにはlessを使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-023",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "All the information in these documents is confidential.",
+          "japanese": "これらの文書にある情報はすべて機密です。",
+          "markers": [
+            {
+              "phrase": "information in these documents is",
+              "kind": "term",
+              "explanation": "informationは不可算で単数扱い。修飾句のdocumentsは動詞の数を決めない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-024",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The accounting department processes invoices every Friday.",
+          "japanese": "経理部は毎週金曜日に請求書を処理します。",
+          "markers": [
+            {
+              "phrase": "every Friday",
+              "kind": "term",
+              "explanation": "繰り返す習慣は現在形processes。現在進行形は一時的・進行中の動作が中心。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-025",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We are currently updating the customer database.",
+          "japanese": "現在、顧客データベースを更新しています。",
+          "markers": [
+            {
+              "phrase": "are currently updating",
+              "kind": "term",
+              "explanation": "今進行中の作業なのでbe＋動詞ing。currentlyは「現在」。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-026",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The company opened its first overseas office in 2019.",
+          "japanese": "会社は2019年に初の海外事務所を開設しました。",
+          "markers": [
+            {
+              "phrase": "in 2019",
+              "kind": "term",
+              "explanation": "終了した過去の時点が明示されるため過去形opened。現在完了とは区別する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-027",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Ms. Chen has worked here since April.",
+          "japanese": "チェンさんは4月からここで働いています。",
+          "markers": [
+            {
+              "phrase": "since April",
+              "kind": "term",
+              "explanation": "開始時点を示すsince。現在までの継続は現在完了。期間ならfor three monthsなどを使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-028",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The shipment had already left when we received the revised order.",
+          "japanese": "変更後の注文を受け取った時には、貨物はすでに出発していました。",
+          "markers": [
+            {
+              "phrase": "had already left",
+              "kind": "term",
+              "explanation": "receivedより前の過去を示す過去完了。二つの出来事の順序を確認する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-029",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "By next Monday, we will have completed the safety inspection.",
+          "japanese": "来週月曜日までには安全点検を完了している予定です。",
+          "markers": [
+            {
+              "phrase": "will have completed",
+              "kind": "term",
+              "explanation": "未来の基準時までの完了はwill have＋過去分詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-030",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We will contact you as soon as the parts arrive.",
+          "japanese": "部品が届き次第ご連絡します。",
+          "markers": [
+            {
+              "phrase": "as soon as the parts arrive",
+              "kind": "term",
+              "explanation": "未来のことでも時を表す副詞節内は現在形arrive。主節はwill contact。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-031",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The contract was signed by both parties yesterday.",
+          "japanese": "昨日、契約は双方によって署名されました。",
+          "markers": [
+            {
+              "phrase": "was signed",
+              "kind": "term",
+              "explanation": "主語contractは署名される対象なのでbe＋過去分詞の受動態。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-032",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The lobby is being painted, so please use the side entrance.",
+          "japanese": "ロビーは塗装中のため、脇の入口をご利用ください。",
+          "markers": [
+            {
+              "phrase": "is being painted",
+              "kind": "term",
+              "explanation": "be＋being＋過去分詞は進行形の受動態。「今塗装されている」。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-033",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "All reservations must be confirmed in writing.",
+          "japanese": "すべての予約は書面で確認されなければなりません。",
+          "markers": [
+            {
+              "phrase": "must be confirmed",
+              "kind": "term",
+              "explanation": "助動詞＋be＋過去分詞。mustの直後にconfirmedだけを置かない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-034",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "You may leave your luggage at the reception desk.",
+          "japanese": "受付に荷物を預けても構いません。",
+          "markers": [
+            {
+              "phrase": "may leave",
+              "kind": "term",
+              "explanation": "mayはこの文では許可。可能性のmayもあるため文脈で機能を判断する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-035",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The revised policy should reduce processing time.",
+          "japanese": "改訂された方針により処理時間が短くなるはずです。",
+          "markers": [
+            {
+              "phrase": "should reduce",
+              "kind": "term",
+              "explanation": "shouldは義務だけでなく期待・予測も表す。この文は改善効果の見込み。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-036",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "You do not have to attend the optional session.",
+          "japanese": "任意参加のセッションに出席する必要はありません。",
+          "markers": [
+            {
+              "phrase": "do not have to",
+              "kind": "term",
+              "explanation": "「必要がない」。禁止のmust notとは異なり、参加してもよい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-037",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The package must have been sent to the wrong address.",
+          "japanese": "荷物は間違った住所に送られたに違いありません。",
+          "markers": [
+            {
+              "phrase": "must have been sent",
+              "kind": "term",
+              "explanation": "must have＋過去分詞は過去についての強い推量。この文は受動態も組み合わされている。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-038",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We plan to expand our delivery service next year.",
+          "japanese": "来年、配達サービスを拡大する計画です。",
+          "markers": [
+            {
+              "phrase": "plan to expand",
+              "kind": "term",
+              "explanation": "planはto不定詞を目的語に取る。plan doingとはしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-039",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The team avoided making changes during the launch.",
+          "japanese": "チームは発売時期の変更を避けました。",
+          "markers": [
+            {
+              "phrase": "avoided making",
+              "kind": "term",
+              "explanation": "avoidの後は動名詞。avoid to makeは不可。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-040",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please remember to lock the cabinet before leaving.",
+          "japanese": "退出前に忘れずに戸棚に鍵をかけてください。",
+          "markers": [
+            {
+              "phrase": "remember to lock",
+              "kind": "term",
+              "explanation": "これからすることを忘れないのがremember to do。remember doingは過去の行為を覚えていること。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-041",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We stopped using paper forms to reduce printing costs.",
+          "japanese": "印刷費用を減らすため、紙の用紙を使うのをやめました。",
+          "markers": [
+            {
+              "phrase": "stopped using",
+              "kind": "term",
+              "explanation": "stop doingはその行為をやめる。stop to doは別の行為をするために立ち止まる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-042",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The supervisor asked us to revise the budget.",
+          "japanese": "上司は私たちに予算を修正するよう求めました。",
+          "markers": [
+            {
+              "phrase": "asked us to revise",
+              "kind": "term",
+              "explanation": "ask＋人＋to不定詞。誰が修正するかを目的語usで示す。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-043",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We installed new lighting in order to improve visibility.",
+          "japanese": "見やすさを改善するために新しい照明を設置しました。",
+          "markers": [
+            {
+              "phrase": "in order to improve",
+              "kind": "term",
+              "explanation": "目的を表すto不定詞。in order toの後は動詞の原形。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-044",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The committee is committed to improving workplace safety.",
+          "japanese": "委員会は職場の安全性向上に取り組んでいます。",
+          "markers": [
+            {
+              "phrase": "committed to improving",
+              "kind": "term",
+              "explanation": "be committed toのtoは前置詞なので後ろは名詞・動名詞。to improveへの置換に注意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-045",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The documents attached to this email contain the specifications.",
+          "japanese": "このメールに添付された文書には仕様が記載されています。",
+          "markers": [
+            {
+              "phrase": "attached to this email",
+              "kind": "term",
+              "explanation": "過去分詞がdocumentsを後ろから修飾。「添付された」という受動の関係。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-046",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Anyone wishing to attend should register online.",
+          "japanese": "参加を希望する方はオンラインで登録してください。",
+          "markers": [
+            {
+              "phrase": "wishing to attend",
+              "kind": "term",
+              "explanation": "現在分詞がAnyoneを後ろから修飾。希望する主体はAnyone。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-047",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We hired a consultant who specializes in logistics.",
+          "japanese": "物流を専門とするコンサルタントを採用しました。",
+          "markers": [
+            {
+              "phrase": "who specializes in logistics",
+              "kind": "term",
+              "explanation": "先行詞consultantは人で、関係節内の主語が欠けるためwhoを用いる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-048",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The software that we purchased last month is easy to use.",
+          "japanese": "先月購入したソフトウェアは使いやすいです。",
+          "markers": [
+            {
+              "phrase": "that we purchased last month",
+              "kind": "term",
+              "explanation": "関係節のpurchasedの目的語がsoftware。目的格のthatは省略できる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-049",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The engineer whose proposal was accepted will lead the project.",
+          "japanese": "提案が採用された技術者がプロジェクトを率います。",
+          "markers": [
+            {
+              "phrase": "whose proposal",
+              "kind": "term",
+              "explanation": "所有関係を示すwhose。proposalはその技術者の提案。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-050",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please confirm whether the venue is available on Friday.",
+          "japanese": "金曜日に会場を利用できるか確認してください。",
+          "markers": [
+            {
+              "phrase": "whether the venue is available",
+              "kind": "term",
+              "explanation": "whether節全体がconfirmの目的語。「〜かどうか」を表し、節内は平叙文の語順。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-051",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "What the customers need is a more reliable service.",
+          "japanese": "顧客が必要としているのは、より信頼できるサービスです。",
+          "markers": [
+            {
+              "phrase": "What the customers need",
+              "kind": "term",
+              "explanation": "whatは「〜するもの・こと」。節全体が主語で、別の先行詞は不要。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-052",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Although the price increased, demand remained strong.",
+          "japanese": "価格は上がりましたが、需要は引き続き旺盛でした。",
+          "markers": [
+            {
+              "phrase": "Although",
+              "kind": "term",
+              "explanation": "接続詞althoughの後は主語＋動詞。despiteの後は名詞句で、同じ形には置換できない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-053",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Despite the heavy rain, the delivery arrived on time.",
+          "japanese": "大雨にもかかわらず、配達は時間どおりに到着しました。",
+          "markers": [
+            {
+              "phrase": "Despite the heavy rain",
+              "kind": "term",
+              "explanation": "despiteは前置詞なので名詞句が続く。despite ofとはしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-054",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The event was canceled because of a power failure.",
+          "japanese": "停電のためイベントは中止されました。",
+          "markers": [
+            {
+              "phrase": "because of a power failure",
+              "kind": "term",
+              "explanation": "because ofは前置詞句で後ろに名詞。becauseなら主語＋動詞の節を続ける。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-055",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please check the figures before you submit the report.",
+          "japanese": "報告書を提出する前に数値を確認してください。",
+          "markers": [
+            {
+              "phrase": "before you submit",
+              "kind": "term",
+              "explanation": "beforeはこの文では節を導く接続詞。before submissionなら前置詞として使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-056",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The store will remain open until nine o'clock.",
+          "japanese": "店は9時まで営業を続けます。",
+          "markers": [
+            {
+              "phrase": "until nine o'clock",
+              "kind": "term",
+              "explanation": "untilはその時点までの継続。期限までに完了させるbyとは区別する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-057",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The new branch is located between the bank and the station.",
+          "japanese": "新しい支店は銀行と駅の間にあります。",
+          "markers": [
+            {
+              "phrase": "between the bank and the station",
+              "kind": "term",
+              "explanation": "between A and Bで位置関係を示す。amongは集団の中という意味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-058",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "In addition to the salary, the position includes a travel allowance.",
+          "japanese": "この職には給与に加えて出張手当があります。",
+          "markers": [
+            {
+              "phrase": "In addition to",
+              "kind": "term",
+              "explanation": "「〜に加えて」という前置詞句。toの後は名詞句。Moreoverは通常、文全体をつなぐ副詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-059",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "This model is more energy-efficient than the previous one.",
+          "japanese": "この機種は以前のものより省エネルギーです。",
+          "markers": [
+            {
+              "phrase": "more energy-efficient than",
+              "kind": "term",
+              "explanation": "比較級＋thanで比較。oneはmodelの反復を避ける代名詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-060",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The new printer is as reliable as the older model.",
+          "japanese": "新しいプリンターは古い機種と同じくらい信頼できます。",
+          "markers": [
+            {
+              "phrase": "as reliable as",
+              "kind": "term",
+              "explanation": "as＋形容詞の原級＋asで同等比較。比較級を間に入れない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-061",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "This is the most convenient route to the conference center.",
+          "japanese": "これは会議場への最も便利な経路です。",
+          "markers": [
+            {
+              "phrase": "the most convenient",
+              "kind": "term",
+              "explanation": "三つ以上の候補の中で最上級を用いる。通常theを伴う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-062",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The updated system is much faster than the old one.",
+          "japanese": "更新されたシステムは古いものよりずっと高速です。",
+          "markers": [
+            {
+              "phrase": "much faster",
+              "kind": "term",
+              "explanation": "比較級の程度はmuch、far、evenなどで修飾。very fasterとはしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-063",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The more accurately we forecast demand, the less inventory we need.",
+          "japanese": "需要をより正確に予測するほど、必要な在庫は少なくなります。",
+          "markers": [
+            {
+              "phrase": "The more accurately",
+              "kind": "term",
+              "explanation": "the＋比較級、the＋比較級で二つの変化の連動を表す。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-064",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The instructions are clear enough for new employees to follow.",
+          "japanese": "その指示は新入社員でも従えるほど明確です。",
+          "markers": [
+            {
+              "phrase": "clear enough",
+              "kind": "term",
+              "explanation": "形容詞＋enoughの語順。名詞を修飾する場合はenough timeのように前に置く。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-065",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The file is too large to attach to a single email.",
+          "japanese": "ファイルが大きすぎて、一通のメールに添付できません。",
+          "markers": [
+            {
+              "phrase": "too large to attach",
+              "kind": "term",
+              "explanation": "too＋形容詞＋to不定詞は程度が過大で実行できないこと。単なるveryとの違いを押さえる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-066",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "If you order today, we will ship the goods tomorrow.",
+          "japanese": "今日注文いただければ、明日商品を発送します。",
+          "markers": [
+            {
+              "phrase": "If you order today",
+              "kind": "term",
+              "explanation": "実現可能な未来の条件はif節で現在形、主節でwill。if節へ機械的にwillを入れない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-067",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Unless payment is received by Friday, the booking will be canceled.",
+          "japanese": "金曜日までに支払いを受け取らなければ、予約は取り消されます。",
+          "markers": [
+            {
+              "phrase": "Unless payment is received",
+              "kind": "term",
+              "explanation": "unlessは「〜でない限り」。if ... notに近く、否定の向きを取り違えない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-068",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "You may enter the building provided that you show your identification.",
+          "japanese": "身分証を提示することを条件に建物へ入れます。",
+          "markers": [
+            {
+              "phrase": "provided that",
+              "kind": "term",
+              "explanation": "「〜という条件で」。理由ではなく入館の条件を導く。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-069",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "If we had more storage space, we could accept larger orders.",
+          "japanese": "保管スペースがもっとあれば、より大きな注文を受けられるのですが。",
+          "markers": [
+            {
+              "phrase": "If we had more storage space",
+              "kind": "term",
+              "explanation": "現在の事実に反する仮定を過去形で示す。主節はcould＋原形。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-070",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "If the team had checked the address, the parcel would have arrived on time.",
+          "japanese": "チームが住所を確認していれば、小包は時間どおりに届いていたでしょう。",
+          "markers": [
+            {
+              "phrase": "had checked",
+              "kind": "term",
+              "explanation": "過去の事実に反する仮定。if＋過去完了にwould have＋過去分詞を対応させる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-071",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Should you require assistance, please contact the help desk.",
+          "japanese": "支援が必要な場合は、ヘルプデスクへご連絡ください。",
+          "markers": [
+            {
+              "phrase": "Should you require",
+              "kind": "term",
+              "explanation": "If you should requireのifを省いた倒置。疑問文ではなく丁寧な条件表現。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-072",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Not only did sales increase, but customer satisfaction also improved.",
+          "japanese": "売上が伸びただけでなく、顧客満足度も向上しました。",
+          "markers": [
+            {
+              "phrase": "Not only did sales increase",
+              "kind": "term",
+              "explanation": "否定的な語句Not onlyが文頭に来ると助動詞didを主語の前に置く。increaseは原形。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-073",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The company provides employees with protective clothing.",
+          "japanese": "会社は従業員に保護服を支給しています。",
+          "markers": [
+            {
+              "phrase": "provides employees with",
+              "kind": "term",
+              "explanation": "provide A with Bで「AにBを提供する」。provide B for Aという形もある。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-074",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The new software enables users to track their expenses.",
+          "japanese": "新しいソフトウェアにより利用者は経費を追跡できます。",
+          "markers": [
+            {
+              "phrase": "enables users to track",
+              "kind": "term",
+              "explanation": "enable＋人＋to不定詞。usersがtrackする主体。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-075",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please inform the receptionist of any changes to your arrival time.",
+          "japanese": "到着時刻に変更があれば受付係に知らせてください。",
+          "markers": [
+            {
+              "phrase": "inform the receptionist of",
+              "kind": "term",
+              "explanation": "inform A of Bで「AにBを知らせる」。inform aboutだけで人の目的語を落とさない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-076",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The package includes installation but does not include maintenance.",
+          "japanese": "このプランには設置が含まれますが、保守は含まれません。",
+          "markers": [
+            {
+              "phrase": "includes installation",
+              "kind": "term",
+              "explanation": "includeは他動詞で直後に目的語。include of installationとはしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-077",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We discussed the revised contract at the meeting.",
+          "japanese": "会議で変更後の契約について話し合いました。",
+          "markers": [
+            {
+              "phrase": "discussed the revised contract",
+              "kind": "term",
+              "explanation": "discussは他動詞。discuss aboutではなくdiscuss＋対象を使う。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-078",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The survey suggests that customers prefer flexible delivery times.",
+          "japanese": "調査は顧客が柔軟な配達時間を好むことを示唆しています。",
+          "markers": [
+            {
+              "phrase": "suggests that",
+              "kind": "term",
+              "explanation": "ここでは事実・傾向を示唆するthat節。提案のsuggest doingとは意味を区別する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-079",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The director requested that the report be revised before publication.",
+          "japanese": "取締役は公開前に報告書を修正するよう求めました。",
+          "markers": [
+            {
+              "phrase": "the report be revised",
+              "kind": "term",
+              "explanation": "要求を表すrequestのthat節で原形beを使う形。was revisedという過去の事実の報告とは異なる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-080",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please fill out the application form in black ink.",
+          "japanese": "申込用紙を黒いインクで記入してください。",
+          "markers": [
+            {
+              "phrase": "fill out",
+              "kind": "term",
+              "explanation": "用紙に必要事項を記入するという句動詞。fill out a formがよく使われる組合せ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-081",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The training session will take place in the main hall.",
+          "japanese": "研修は大ホールで行われます。",
+          "markers": [
+            {
+              "phrase": "take place",
+              "kind": "term",
+              "explanation": "「開催される・起こる」。take a placeと冠詞を挟まない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-082",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We need to take the delivery cost into account.",
+          "japanese": "配達費用を考慮する必要があります。",
+          "markers": [
+            {
+              "phrase": "take the delivery cost into account",
+              "kind": "term",
+              "explanation": "take A into accountで「Aを考慮する」。accountはこの表現では口座ではない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-083",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please get in touch with us if your plans change.",
+          "japanese": "予定が変わった場合は私たちにご連絡ください。",
+          "markers": [
+            {
+              "phrase": "get in touch with",
+              "kind": "term",
+              "explanation": "「〜と連絡を取る」。withの後が連絡相手。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-084",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The marketing team will carry out a customer survey.",
+          "japanese": "マーケティングチームは顧客調査を実施します。",
+          "markers": [
+            {
+              "phrase": "carry out",
+              "kind": "term",
+              "explanation": "計画・調査などを「実施する」。carryの物理的な「運ぶ」から区別する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-085",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We ran out of packaging materials during the busy season.",
+          "japanese": "繁忙期に梱包資材を使い切りました。",
+          "markers": [
+            {
+              "phrase": "ran out of",
+              "kind": "term",
+              "explanation": "run out of＋物で「物を切らす」。主語は使い切った人や組織。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-086",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please let us know in advance if you need special equipment.",
+          "japanese": "特別な機器が必要な場合は事前にお知らせください。",
+          "markers": [
+            {
+              "phrase": "in advance",
+              "kind": "term",
+              "explanation": "「事前に」。advance paymentは「前払い」でadvanceが名詞を修飾する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-087",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The courier delivered the parcel within two business days.",
+          "japanese": "配送業者は2営業日以内に小包を届けました。",
+          "markers": [
+            {
+              "phrase": "within two business days",
+              "kind": "term",
+              "explanation": "withinは期間の内側で完了。duringは期間中の出来事、forは継続時間を表す。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-088",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The finance team raised the travel budget by ten percent.",
+          "japanese": "財務チームは出張予算を10パーセント引き上げました。",
+          "markers": [
+            {
+              "phrase": "raised",
+              "kind": "term",
+              "explanation": "raiseは目的語budgetを取る他動詞。riseは「上がる」という自動詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-089",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Please ensure that the doors are locked before you leave.",
+          "japanese": "退出前にドアに鍵がかかっていることを確認してください。",
+          "markers": [
+            {
+              "phrase": "ensure",
+              "kind": "term",
+              "explanation": "ensureは確実にする。insureは保険をかける、assureは人を安心させる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-090",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The company will accept applications until the end of May.",
+          "japanese": "会社は5月末まで応募を受け付けます。",
+          "markers": [
+            {
+              "phrase": "accept",
+              "kind": "term",
+              "explanation": "acceptは受け入れる。exceptは「〜を除いて」で意味・品詞が異なる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-091",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The charge for replacing the screen is included in the estimate.",
+          "japanese": "画面交換の料金は見積もりに含まれています。",
+          "markers": [
+            {
+              "phrase": "charge",
+              "kind": "term",
+              "explanation": "この文では「料金」。in charge ofなら「担当して」で文脈によって意味が変わる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-092",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The bank statement shows all transactions for the month.",
+          "japanese": "銀行の取引明細にはその月の全取引が記載されています。",
+          "markers": [
+            {
+              "phrase": "statement",
+              "kind": "term",
+              "explanation": "ここでは取引明細。statementには発言・声明という意味もあり、bankが意味を限定する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-093",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "We will address the issue at the next staff meeting.",
+          "japanese": "次の職員会議でその問題に対処します。",
+          "markers": [
+            {
+              "phrase": "address the issue",
+              "kind": "term",
+              "explanation": "addressはここでは動詞「対処する」。住所という名詞だけで覚えず目的語issueと結び付ける。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-094",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The supplier submitted a detailed estimate for the repairs.",
+          "japanese": "仕入先は修理の詳細な見積もりを提出しました。",
+          "markers": [
+            {
+              "phrase": "submitted a detailed estimate",
+              "kind": "term",
+              "explanation": "submit an estimateは「見積もりを提出する」。estimateは概算、invoiceは請求書。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-095",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "All employees are required to comply with the safety regulations.",
+          "japanese": "すべての従業員は安全規則に従う必要があります。",
+          "markers": [
+            {
+              "phrase": "comply with",
+              "kind": "term",
+              "explanation": "規則・要求に「従う」。withを伴う。complianceは名詞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-096",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The warranty covers defects in materials for one year.",
+          "japanese": "保証は1年間、材料の欠陥を対象とします。",
+          "markers": [
+            {
+              "phrase": "covers defects",
+              "kind": "term",
+              "explanation": "coverはここでは保証対象に含めること。defectは欠陥、damageは損傷。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-097",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Travel expenses will be reimbursed upon submission of receipts.",
+          "japanese": "領収書の提出時に出張費が払い戻されます。",
+          "markers": [
+            {
+              "phrase": "reimbursed upon submission",
+              "kind": "term",
+              "explanation": "reimburseは立替費用を払い戻す。upon＋名詞は「〜するとすぐに・〜の際に」。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-098",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The deadline has been extended to accommodate late submissions.",
+          "japanese": "遅れて提出する人に対応するため締切が延長されました。",
+          "markers": [
+            {
+              "phrase": "accommodate late submissions",
+              "kind": "term",
+              "explanation": "accommodateは宿泊させるだけでなく、需要・事情に対応する意味もある。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-099",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "The sale is subject to product availability.",
+          "japanese": "セールでの販売は在庫の有無によります。",
+          "markers": [
+            {
+              "phrase": "subject to product availability",
+              "kind": "term",
+              "explanation": "be subject toは条件・制約に従うこと。availableとavailabilityの品詞も区別する。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-100",
+      "category": "英語",
+      "sentences": [
+        {
+          "english": "Customers are eligible for a refund if they retain the receipt.",
+          "japanese": "領収書を保管していれば、顧客は返金を受ける資格があります。",
+          "markers": [
+            {
+              "phrase": "eligible for a refund",
+              "kind": "term",
+              "explanation": "be eligible for＋名詞は受給資格があること。forの後は名詞、toなら動詞の原形を続ける。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

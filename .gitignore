@@ -1,0 +1,10 @@
+node_modules/
+dist/
+release/
+release-next/
+data/
+.backups/
+.test-data/
+artifacts/
+*.log
+*.lnk

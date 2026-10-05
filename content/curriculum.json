@@ -1,0 +1,1023 @@
+{
+  "schemaVersion": 1,
+  "created": "2026-10-05",
+  "original": true,
+  "sources": [
+    {
+      "title": "IIBC テストの形式と構成",
+      "url": "https://www.iibc-global.org/toeic/test/lr/about/format.html",
+      "checked": "2026-10-05"
+    },
+    {
+      "title": "ETS Listening & Reading Score Descriptors",
+      "url": "https://www.ets.org/pdfs/toeic/toeic-listening-reading-score-descriptors.pdf",
+      "checked": "2026-10-05"
+    }
+  ],
+  "items": [
+    {
+      "id": "short-001",
+      "mode": "short",
+      "topic": "期限・前置詞と動名詞",
+      "retained": true
+    },
+    {
+      "id": "short-002",
+      "mode": "short",
+      "topic": "期限・前置詞と動名詞",
+      "retained": true
+    },
+    {
+      "id": "short-003",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-004",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-005",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-006",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-007",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-008",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-009",
+      "mode": "short",
+      "topic": "品詞・修飾位置"
+    },
+    {
+      "id": "short-010",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-011",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-012",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-013",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-014",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-015",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-016",
+      "mode": "short",
+      "topic": "名詞・冠詞・代名詞"
+    },
+    {
+      "id": "short-017",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-018",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-019",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-020",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-021",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-022",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-023",
+      "mode": "short",
+      "topic": "主語と動詞の一致・数量"
+    },
+    {
+      "id": "short-024",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-025",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-026",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-027",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-028",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-029",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-030",
+      "mode": "short",
+      "topic": "時制・完了・時間表現"
+    },
+    {
+      "id": "short-031",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-032",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-033",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-034",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-035",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-036",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-037",
+      "mode": "short",
+      "topic": "受動態・助動詞"
+    },
+    {
+      "id": "short-038",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-039",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-040",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-041",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-042",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-043",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-044",
+      "mode": "short",
+      "topic": "不定詞・動名詞・目的"
+    },
+    {
+      "id": "short-045",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-046",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-047",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-048",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-049",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-050",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-051",
+      "mode": "short",
+      "topic": "分詞・関係詞・名詞節"
+    },
+    {
+      "id": "short-052",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-053",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-054",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-055",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-056",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-057",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-058",
+      "mode": "short",
+      "topic": "接続詞・前置詞"
+    },
+    {
+      "id": "short-059",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-060",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-061",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-062",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-063",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-064",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-065",
+      "mode": "short",
+      "topic": "比較・副詞・語順"
+    },
+    {
+      "id": "short-066",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-067",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-068",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-069",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-070",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-071",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-072",
+      "mode": "short",
+      "topic": "条件・仮定・倒置"
+    },
+    {
+      "id": "short-073",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-074",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-075",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-076",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-077",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-078",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-079",
+      "mode": "short",
+      "topic": "動詞の語法・目的語"
+    },
+    {
+      "id": "short-080",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-081",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-082",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-083",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-084",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-085",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-086",
+      "mode": "short",
+      "topic": "業務の定型表現・句動詞"
+    },
+    {
+      "id": "short-087",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-088",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-089",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-090",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-091",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-092",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-093",
+      "mode": "short",
+      "topic": "類義語・多義語・文脈"
+    },
+    {
+      "id": "short-094",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-095",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-096",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-097",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-098",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-099",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "short-100",
+      "mode": "short",
+      "topic": "実務語彙・コロケーション"
+    },
+    {
+      "id": "reading-001",
+      "mode": "reading",
+      "topic": "対比・因果・指示語",
+      "retained": true
+    },
+    {
+      "id": "reading-002",
+      "mode": "reading",
+      "topic": "対比・因果・指示語",
+      "retained": true
+    },
+    {
+      "id": "reading-003",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-004",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-005",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-006",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-007",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-008",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-009",
+      "mode": "reading",
+      "topic": "因果・結果・理由"
+    },
+    {
+      "id": "reading-010",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-011",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-012",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-013",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-014",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-015",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-016",
+      "mode": "reading",
+      "topic": "対比・譲歩・訂正"
+    },
+    {
+      "id": "reading-017",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-018",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-019",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-020",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-021",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-022",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-023",
+      "mode": "reading",
+      "topic": "追加・例示・具体化"
+    },
+    {
+      "id": "reading-024",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-025",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-026",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-027",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-028",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-029",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-030",
+      "mode": "reading",
+      "topic": "条件・例外・適用範囲"
+    },
+    {
+      "id": "reading-031",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-032",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-033",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-034",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-035",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-036",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-037",
+      "mode": "reading",
+      "topic": "時間・順序・予定変更"
+    },
+    {
+      "id": "reading-038",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-039",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-040",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-041",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-042",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-043",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-044",
+      "mode": "reading",
+      "topic": "指示語・代名詞・参照先"
+    },
+    {
+      "id": "reading-045",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-046",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-047",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-048",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-049",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-050",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-051",
+      "mode": "reading",
+      "topic": "目的・読者・依頼の意図"
+    },
+    {
+      "id": "reading-052",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-053",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-054",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-055",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-056",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-057",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-058",
+      "mode": "reading",
+      "topic": "要旨・文章構造・問題解決"
+    },
+    {
+      "id": "reading-059",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-060",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-061",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-062",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-063",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-064",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-065",
+      "mode": "reading",
+      "topic": "推論・含意・発言意図"
+    },
+    {
+      "id": "reading-066",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-067",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-068",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-069",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-070",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-071",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-072",
+      "mode": "reading",
+      "topic": "言い換え・文脈語彙"
+    },
+    {
+      "id": "reading-073",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-074",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-075",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-076",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-077",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-078",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-079",
+      "mode": "reading",
+      "topic": "数値・日付・限定語の照合"
+    },
+    {
+      "id": "reading-080",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-081",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-082",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-083",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-084",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-085",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-086",
+      "mode": "reading",
+      "topic": "結束性・文挿入・段落の展開"
+    },
+    {
+      "id": "reading-087",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-088",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-089",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-090",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-091",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-092",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-093",
+      "mode": "reading",
+      "topic": "関連情報・連絡の照合"
+    },
+    {
+      "id": "reading-094",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-095",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-096",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-097",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-098",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-099",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    },
+    {
+      "id": "reading-100",
+      "mode": "reading",
+      "topic": "文書の種類・情報の探し方"
+    }
+  ]
+}

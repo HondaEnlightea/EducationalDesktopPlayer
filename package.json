@@ -1,0 +1,56 @@
+{
+  "name": "educational-desktop-player",
+  "version": "0.1.0",
+  "description": "A quiet Windows desktop learning companion",
+  "private": true,
+  "main": "dist/main.cjs",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "curriculum": "node scripts/build-curriculum.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "start": "npm run build && electron .",
+    "package": "npm run build && node --require ./scripts/windows-resource-retry.cjs ./node_modules/electron-builder/cli.js --win dir --x64",
+    "smoke": "npm run build && node scripts/smoke.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "electron": "44.5.1",
+    "electron-builder": "26.15.3",
+    "esbuild": "0.28.2",
+    "typescript": "7.0.2"
+  },
+  "build": {
+    "appId": "jp.educationaldesktopplayer.desktop",
+    "productName": "Educational Desktop Player",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "content",
+        "to": "content"
+      },
+      {
+        "from": "assets",
+        "to": "assets"
+      }
+    ],
+    "win": {
+      "target": "dir",
+      "icon": "assets/app.ico",
+      "signExecutable": false
+    }
+  }
+}
